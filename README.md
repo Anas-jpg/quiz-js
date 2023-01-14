@@ -1,4 +1,4 @@
-# quiz-js
+# Quiz-App js
 
 This is a Quiz App project that utilizes HTML, CSS, and JavaScript. The app presents a series of multiple-choice questions to the user and keeps track of the score. It is designed to be simple and interactive, making it easy for users to navigate through the quiz.
 
